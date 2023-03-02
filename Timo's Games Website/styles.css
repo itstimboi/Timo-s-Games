@@ -1,0 +1,9 @@
+#text-box {
+background-color: aquamarine;
+display: flex;
+flex-direction: row;
+gap: 5px;
+}
+#About-Section {
+background-color: blueviolet;
+}
