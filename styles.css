@@ -5,5 +5,11 @@ flex-direction: row;
 gap: 5px;
 }
 #About-Section {
-background-color: blueviolet;
+background-color: rgb(255, 123, 0);
+}
+#Products-Tab{
+background-color: rgba(180, 0, 111, 0.699)
+}
+#Uh-Oh{
+    text-align: center;
 }
